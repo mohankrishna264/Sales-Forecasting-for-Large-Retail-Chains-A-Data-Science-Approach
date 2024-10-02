@@ -82,5 +82,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Connect with Me
 🏢 Connect with me on LinkedIn
-LinkedIn Profile
+https://www.linkedin.com/in/mohan-krishna-kola/
+
 Happy Forecasting! 🚀
